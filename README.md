@@ -2,7 +2,7 @@
 
 The program is a Python script that utilizes several APIs and libraries to generate personalized health scores and recommendations for menu items at a specific restaurant. The script prompts the user to provide their health history, allergies, and the restaurant they are interested in. It then retrieves nutrition information for each food item on the restaurant's menu and generates a health score and recommendation for each menu item based on the user's health conditions and preferences.
 
-The script utilizes the Nutritionix API to retrieve nutrition information for each menu item, including the number of calories, total fat, saturated fat, cholesterol, sodium, total carbohydrate, dietary fiber, sugars, and protein. It then generates a personalized health score and recommendation for each menu item based on the user's health conditions and preferences.
+The script utilizes the Nutritionix API to retrieve nutrition information for each menu item, including the number of calories, total fat, saturated fat, cholesterol, sodium, total carbohydrate, dietary fiber, sugars, and protein. It then generates a personalized health score and recommendation for each menu item based on the user's health conditions and preferences using an openAI API. 
 
 The personalized recommendation is also generated for each menu item based on the user's health conditions and preferences. The recommendation provides guidance on which menu items to choose based on the user's health conditions and preferences. The recommendations are generated in a similar format to those provided by a nutritionist.
 
@@ -12,10 +12,18 @@ Furthermore, the program highlights the importance of personalization of medicin
 
 Overall, the program is a powerful tool for individuals who want to make informed decisions about what they eat, and it highlights the importance of personalized medicine in improving health outcomes.
 
+Implications:
 
+- Helps individuals make informed decisions about what they eat
+- Can improve management of chronic health conditions, nutrition, and overall health outcomes
+- Highlights importance of personalization of medicine
 
-#Future work
-The code is still under development. Future work will focus on improving the accuracy of the responses and expanding the range of health conditions that the code can address.
+Future Work:
 
-Contact information
-If you have any questions about the code, please contact the author at vinmajcreates@gmail.com
+- Focus on improving accuracy of responses
+- Expand range of health conditions that the code can address
+
+Contact Information:
+
+Contact author at vinmajcreates@gmail.com for questions about the code
+
