@@ -1,0 +1,5 @@
+The program secures the user's personal identifiers with GPT by encrypting the data before it is stored. The encryption key is stored in a secure location, and only the program has access to the key. This ensures that the data cannot be accessed by unauthorized individuals.
+
+In addition, the program only stores the minimum amount of data necessary to generate a health score for the food item. This reduces the risk of the data being compromised.
+
+Finally, the program is regularly updated with security patches. This helps to protect the data from known vulnerabilities.
